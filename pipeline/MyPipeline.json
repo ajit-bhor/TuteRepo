@@ -1,0 +1,17 @@
+{
+	"name": "MyPipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "MyAppWait",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
