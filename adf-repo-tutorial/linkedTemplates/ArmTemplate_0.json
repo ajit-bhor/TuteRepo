@@ -20,12 +20,12 @@
 				"activities": [
 					{
 						"name": "MyAppWait",
-						"description": "My Third Description",
+						"description": "My Sixth Description - From Branch1TuteRepo",
 						"type": "Wait",
 						"dependsOn": [],
 						"userProperties": [],
 						"typeProperties": {
-							"waitTimeInSeconds": 10
+							"waitTimeInSeconds": 30
 						}
 					}
 				],
