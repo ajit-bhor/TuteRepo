@@ -20,6 +20,7 @@
 				"activities": [
 					{
 						"name": "MyAppWait",
+						"description": "My First Description",
 						"type": "Wait",
 						"dependsOn": [],
 						"userProperties": [],
