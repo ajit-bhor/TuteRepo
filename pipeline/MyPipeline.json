@@ -4,7 +4,7 @@
 		"activities": [
 			{
 				"name": "MyAppWait",
-				"description": "My Second Description",
+				"description": "My Third Description",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
