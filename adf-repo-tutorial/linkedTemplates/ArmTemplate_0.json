@@ -20,7 +20,7 @@
 				"activities": [
 					{
 						"name": "MyAppWait",
-						"description": "My First Description",
+						"description": "My Third Description",
 						"type": "Wait",
 						"dependsOn": [],
 						"userProperties": [],
